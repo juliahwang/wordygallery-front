@@ -12,7 +12,8 @@ package-lock.json
 *.ntvs*
 *.njsproj
 *.slni
-
+.vscode
+.sln
 
 # Created by https://www.gitignore.io/api/node
 
